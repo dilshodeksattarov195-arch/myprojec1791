@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helperuonnect",
+        "uuid": 1112211,
+        "checksum": "l75eh"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
